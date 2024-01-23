@@ -5,7 +5,7 @@ Sou Militar a 4 anos, estou buscando trocar de área e por ser apaixonado por te
 
 Estou cursando Analise e Desenvolvimento de sistemas pela estácio;
 
-Tambem estou cusando esses cursos pela Udemy: 
+Tambem estou aprendendo essas linguagens pela Udemy: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
     
