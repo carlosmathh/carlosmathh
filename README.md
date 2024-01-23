@@ -11,3 +11,7 @@ Tambem estou cusando esses cursos pela Udemy:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
     
+Formas de contato: 
+
+<a href="https://www.linkedin.com/in/carlos-matheus-da-silva-costa-192274244/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="40" height="40"  />
+</a>
