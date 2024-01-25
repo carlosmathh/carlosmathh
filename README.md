@@ -3,7 +3,7 @@ Olá, meu nome é           👋
 
 Sou Militar a 4 anos, estou buscando trocar de área e por ser apaixonado por tecnologia essa é a minha escolha;  
 
-Estou cursando Analise e Desenvolvimento de sistemas pela estácio;
+Estou cursando Analise e Desenvolvimento de sistemas pela Estácio;
 
 Tambem estou aprendendo essas linguagens pela Udemy: 
 
