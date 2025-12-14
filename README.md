@@ -40,7 +40,7 @@ com foco em **back-end e bancos de dados**, onde eu possa aplicar meus conhecime
 
 ---
 
-## 🪖 Diferenciais
+## 🚀 Diferenciais
 
 - Disciplina e responsabilidade profissional
 - Facilidade para trabalhar sob pressão
