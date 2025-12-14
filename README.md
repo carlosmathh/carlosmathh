@@ -3,10 +3,16 @@
 🎯 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas  
 📍 Curitiba – PR  
 
-Sou militar do Exército Brasileiro há 4 anos e estou em **transição de carreira para a área de Tecnologia da Informação**.  
+Sou militar do Exército Brasileiro há 6 anos e estou em **transição de carreira para a área de Tecnologia da Informação**.  
 Tenho forte disciplina, foco em resultados e experiência em atuar sob pressão, aplicando essas habilidades no estudo e desenvolvimento de software.
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e possuo grande interesse em **bancos de dados, desenvolvimento back-end e inteligência artificial**.
+
+
+## 🎯 Objetivo
+Busco minha primeira oportunidade como **Desenvolvedor Júnior** ou **Estagiário em TI**,  
+com foco em **back-end e bancos de dados**, onde eu possa aplicar meus conhecimentos e evoluir profissionalmente.
+
 
 ---
 
@@ -34,6 +40,16 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e possuo grande intere
 
 ---
 
+## 🪖 Diferenciais
+
+- Disciplina e responsabilidade profissional
+- Facilidade para trabalhar sob pressão
+- Aprendizado rápido e contínuo
+- Boa comunicação e trabalho em equipe
+- Perfil analítico e organizado
+
+---
+
 ## 📚 Em aprendizado contínuo
 - SQL avançado e modelagem de dados
 - Python aplicado a automações e back-end
@@ -55,7 +71,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e possuo grande intere
   <a href="https://www.linkedin.com/in/carlos-matheus-da-silva-costa-192274244/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</p>  
 
 ---
 
