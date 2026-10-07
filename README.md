@@ -169,7 +169,7 @@ Tenho especial interesse por ambientes nos quais possa aprofundar meus conhecime
 ## 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href=" https://www.linkedin.com/in/carlos-matheus-prog/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-matheus-prog/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:carlosmathhh@gmail.com">
